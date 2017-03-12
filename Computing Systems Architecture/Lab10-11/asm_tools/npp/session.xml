@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="84" xOffset="0" scrollWidth="690" startPos="3841" endPos="3841" selMode="0" lang="Pascal" encoding="-1" filename="D:\Uni\Semester1\3.ASC\LabWork\Lab10-11\asm_tools\msdn_defs.inc" />
+            <File firstVisibleLine="66" xOffset="0" scrollWidth="1170" startPos="1250" endPos="1248" selMode="0" lang="Assembly" encoding="-1" filename="D:\Uni\Semester1\3.ASC\LabWork\Lab10-11\asm_tools\example\Project2.asm" />
+            <File firstVisibleLine="18" xOffset="0" scrollWidth="710" startPos="346" endPos="346" selMode="0" lang="Assembly" encoding="-1" filename="C:\Users\Razvan\Desktop\Lab ASC BitDeffender\Problem1\Problem1.asm" />
+            <File firstVisibleLine="4" xOffset="0" scrollWidth="380" startPos="180" endPos="180" selMode="0" lang="Assembly" encoding="-1" filename="D:\Uni\Semester1\3.ASC\LabWork\Lab10-11\asm_tools\example\new  2.asm" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

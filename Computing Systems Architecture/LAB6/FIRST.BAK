@@ -1,0 +1,27 @@
+assume cs:c, ds:d
+d segment
+	s1 db '1234'
+	s2 db '567'
+d ends
+e segemnt
+	s3 db 3
+e ends
+c segment
+viorel:
+	mov ax,d
+	mov ds,ax
+	
+	mov ax,0
+	add ax,s1[0]	
+
+	mov ax,e
+	mov ds,ax
+
+	mov ax,0
+	add ax,s3
+	
+	mov ax,4c00h
+	int 21h
+	
+c ends
+end viorel
