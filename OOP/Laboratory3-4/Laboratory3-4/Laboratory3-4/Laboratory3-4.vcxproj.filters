@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Tests">
+      <UniqueIdentifier>{c8ff97b0-538f-4d81-b78f-1502b771bb01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\repo">
+      <UniqueIdentifier>{9577855d-3234-4865-b55a-ad9105349435}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\domain">
+      <UniqueIdentifier>{6f5ba3a7-e168-4310-a319-73245a7ae110}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Tests">
+      <UniqueIdentifier>{807b839c-056f-47d8-bcab-78b0ef5e622d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="domain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="repo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tests_domain.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tests_repo.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tests_vector.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="tests.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="controller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="test_controller.h">
+      <Filter>Header Files\Tests</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Laboratory3-4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="tests.c">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_domain.c">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_repo.c">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="tests_vector.c">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+    <ClCompile Include="repo.c">
+      <Filter>Source Files\repo</Filter>
+    </ClCompile>
+    <ClCompile Include="domain.c">
+      <Filter>Source Files\domain</Filter>
+    </ClCompile>
+    <ClCompile Include="controller.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test_controller.c">
+      <Filter>Source Files\Tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

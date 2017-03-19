@@ -1,0 +1,29 @@
+﻿  stdafx.c
+  utils.c
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\utils.c(194): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  tests_vector.c
+  tests_repo.c
+  tests_domain.c
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\tests_domain.c(57): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\tests_domain.c(61): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\tests_domain.c(68): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  tests.c
+  test_controller.c
+  repo.c
+  domain.c
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\domain.c(5): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\domain.c(10): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\domain.c(19): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\domain.c(135): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  controller.c
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\controller.c(35): warning C4133: 'function': incompatible types - from 'BakeryController *' to 'Repository *'
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\controller.c(36): warning C4113: 'void (__cdecl *)(void (__cdecl *)(Material *,void *),Material *,void *)' differs in parameter lists from 'void (__cdecl *)(void *,void *)'
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\controller.c(36): warning C4022: 'updateObject': pointer mismatch for actual parameter 4
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\controller.c(49): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char'
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\controller.c(49): warning C4024: 'strcmp': different types for formal and actual parameter 1
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\controller.c(50): warning C4022: 'updateObject': pointer mismatch for actual parameter 4
+d:\uni\semester2\1.oop\workspace\laboratory3-4\laboratory3-4\controller.c(58): warning C4022: 'updateObject': pointer mismatch for actual parameter 4
+  Laboratory3-4.c
+  Generating Code...
+  Laboratory3-4.vcxproj -> D:\Uni\Semester2\1.OOP\WorkSpace\Laboratory3-4\Debug\Laboratory3-4.exe
+  Laboratory3-4.vcxproj -> D:\Uni\Semester2\1.OOP\WorkSpace\Laboratory3-4\Debug\Laboratory3-4.pdb (Full PDB)
